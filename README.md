@@ -1,5 +1,6 @@
 ## Fire
-====
+
+HTML5/JavaScript port of Nintendo's **Game & Watch Gallery: Fire**.
 
 ### Overview
 ---
